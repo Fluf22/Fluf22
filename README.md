@@ -1,3 +1,9 @@
+# Portfolio
+
+Access [LOTReact](https://www.github.com/Fluf22/LOTReact) demo on Netlify: [click here!](https://lotreact.netlify.app)\
+Download [my resume in English](https://lotreact.netlify.app/assets/cv-thomas-raffray-en.pdf), [ou mon CV en Français](https://lotreact.netlify.app/assets/cv-thomas-raffray-fr.pdf)\
+Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
+
 # Experiences
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Ubisoft](https://upload.wikimedia.org/wikipedia/fr/2/26/Ubisoft_%282017%29_Logo_2.svg)
