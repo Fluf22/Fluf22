@@ -13,7 +13,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 <br />
 
 <p align="center" style="margin-bottom: 77px">
-	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/jenji-logo-alt.png" width="200" />
+	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/jenji-logo.png" width="200" />
 </p>
 
 <br />
@@ -69,7 +69,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 <br />
 
 <p align="center" style="margin-top: 44px; margin-bottom: 22px;">
-	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/55-logo-alt.png" width="200" />
+	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/55-logo.png" width="200" />
 </p>
 
 <br />
@@ -87,7 +87,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 <br />
 
 <p align="center" style="margin-top: 77px; margin-bottom: 44px">
-  <img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/42-logo-alt.png" width="200" />
+  <img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/42-logo.png" width="200" />
 </p>
 
 <br />
