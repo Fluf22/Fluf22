@@ -6,7 +6,16 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 # Experiences
 
-<p align="center" style="margin-bottom: 44px;">
+<p align="center" style="margin-bottom: 77px;">
+	<img src="https://www.jenji.io/hubfs/jenji-logo.svg" width="30%" />
+</p>
+
+## Full-stack developer (from january 2021)
+
+- Transitionning front-end to Vue.js (Vue 2 + Composition API + mobx as state manager + Vuetify as UI framework)
+- Crafting new user-friendly expense management features
+
+<p align="center" style="margin-bottom: 77px;">
 	<img src="https://upload.wikimedia.org/wikipedia/fr/2/26/Ubisoft_%282017%29_Logo_2.svg" width="40%" />
 </p>
 
