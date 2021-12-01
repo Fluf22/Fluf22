@@ -1,7 +1,9 @@
 # Portfolio
 
 Access [LOTReact](https://www.github.com/Fluf22/LOTReact) demo on Netlify: [click here!](https://lotreact.netlify.app)\
-Download [my resume in English](https://lotreact.netlify.app/assets/cv-thomas-raffray-en.pdf), [ou mon CV en Français](https://lotreact.netlify.app/assets/cv-thomas-raffray-fr.pdf)\
+Access [my mariage website](https://www.github.com/Fluf22/Mariage) on Netlify: [click here!](https://apollinethomas.netlify.app)\
+Here is [my favorite template](https://www.github.com/Fluf22/react-starter-template) to begin a new React project\
+Download [my resume in English](https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/cv-thomas-raffray-english.pdf), [ou mon CV en Français](https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/cv-thomas-raffray-francais.pdf)\
 Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br /><br />
@@ -28,7 +30,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 <br />
 
 <p align="center" style="margin-bottom: 77px;">
-	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/ubisoft-logo-alt.png" width="200" />
+	<img src="https://raw.githubusercontent.com/Fluf22/Fluf22/main/assets/ubisoft-logo.png" width="200" />
 </p>
 
 <br />
