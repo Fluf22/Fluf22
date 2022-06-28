@@ -18,7 +18,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br />
 
-## Full-stack developer (from january 2021)
+## Full-stack developer (from January 2021 to June 2022)
 
 - Transitionning front-end to Vue.js (Vue 2 + Composition API + mobx as state manager + Vuetify as UI framework)
 - Crafting new user-friendly expense management features
@@ -35,7 +35,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br />
 
-## Full-stack developer (from november 2019 to october 2020)
+## Full-stack developer (from November 2019 to October 2020)
 
 <br />
 
@@ -48,7 +48,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br />
 
-## Online developer (from march 2018 to november 2019)
+## Online developer (from March 2018 to November 2019)
 
 <br />
 
@@ -56,7 +56,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br />
 
-## Web/tool developer (from september 2017 to march 2018)
+## Web/tool developer (from September 2017 to March 2018)
 
 <br />
 
@@ -74,7 +74,7 @@ Visit my profile on [LinkedIn](https://www.linkedin.com/in/thomas-raffray/)
 
 <br />
 
-## R&D engineer assistant (from january 2017 to august 2017)
+## R&D engineer assistant (from January 2017 to August 2017)
 
 <br />
 
